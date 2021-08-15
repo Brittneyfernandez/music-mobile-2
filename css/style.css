@@ -1,0 +1,19 @@
+
+
+body{
+    background:linear-gradient(rgba(0,0,0,0.68), rgba(0,0,0,0), rgba(0,0,0,0)), url(https://i1.sndcdn.com/artworks-6gciAWIchtVOrh4o-HDwlXQ-t500x500.jpg)no-repeat;
+    background-size: cover;
+}
+
+.cover{
+    background-color: rgba(0,0,0,0.68);
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 16px 7px;
+}
